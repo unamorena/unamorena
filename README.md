@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unamorena
-- 👀 I’m interested in ML, applied math and physics, quantum programming.
+- 👀 I’m interested in ML, Bayesian optimization, applied math and physics, quantum programming.
 <!---- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ... 
 --->
