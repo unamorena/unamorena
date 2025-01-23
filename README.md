@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unamorena
-- 👀 I’m interested in Bayesian optimization, applied math and physics, quantum programming.
-<!---- 🌱 I’m currently learning 
+<!---- - 👀 I’m interested in Bayesian optimization, applied math and physics, quantum programming.
+ 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ... 
 --->
 - 📫 murzinanastasiia@gmail.com
